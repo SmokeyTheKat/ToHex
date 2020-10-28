@@ -1,6 +1,6 @@
 # ToHex
 
-Very simple program that converts decimal to hex.
+Very simple program that converts decimal to hex or the other way.
 
 ## Compalaition
 
@@ -16,6 +16,9 @@ Just use:
 ```
 $ ToHex --help
 $ ToHex 38
+$ ToHex 0xac3
 $ ToHex -term
 ```
 to use anywhere.
+
+While in "-term" mode, type "exit" to exit.
